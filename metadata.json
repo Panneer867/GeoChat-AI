@@ -1,0 +1,7 @@
+{
+  "name": "Copy of GeoChat Explorer",
+  "description": "An interactive map-based chatbot powered by Gemini using Google Maps and Search grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
